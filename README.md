@@ -1,9 +1,7 @@
-## 2D Virtual Classrooms 🏫
+## GameClass Connect
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 
-An online platform where video conferencing tools meet 2D classrooms.
-
-This project is submitted to DurHack2020.
+An online gaming platform merging video conferencing with 2D classrooms for immersive learning and collaboration.
 
 [Link](https://youtu.be/RDbNJXo9d3E) for a short YouTube video and to the [devpost](https://devpost.com/software/2d-virtual-classrooms).
 
