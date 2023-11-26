@@ -5,47 +5,15 @@ An online gaming platform merging video conferencing with 2D classrooms for imme
 
 https://github.com/Prasannaverse13/GameClass-Connect/assets/116105281/6c69635d-3a7a-47c2-b3e2-ba018a707d4a
 
+![project image](https://github.com/Prasannaverse13/GameClass-Connect/assets/116105281/5855bb61-4e1a-4aec-892d-0f028efb04ae)
 
 
-![gamess_lectureHall](https://i.ibb.co/Hx7sqNV/lecture-Hall.png)
+### Introduction 💡
 
-### Inspiration 💡
-* Students (usually) not talking in breakout rooms.
-* Habbo
+* Welcome to "GameClass Connect," a groundbreaking online platform that seamlessly blends the excitement of gaming with the efficiency of virtual classrooms. In this innovative project, we bring together cutting-edge video conferencing tools and dynamic 2D classrooms to create a unique and engaging learning environment.
 
-### What it does 🤔
-The aim of the platform is to interact with students, join breakout rooms at own will and participate in the lectures more often with the help of a 'coin awarding system'.
+* Imagine a space where education transcends traditional boundaries, and students and educators alike can interact in a virtual world designed for both learning and gaming. "GameClass Connect" aims to revolutionize online education by fostering collaboration, communication, and creativity in a way that goes beyond conventional e-learning platforms.
 
-### How I built it 👨‍💻
-Using Unity game engine. Scripts were coded in C#.
+* Through our platform, users can not only participate in immersive gaming experiences but also attend classes, workshops, and meetings in a vibrant 2D environment. The integration of video conferencing tools adds a personal touch to virtual interactions, making learning more engaging and interactive.
 
-### Challenges I ran into 🚩
-Like every project, this also had many challenges.
-
-First of all, the tool I used. Being I have never used Unity, or other game engines, this was a major step since I couldn’t get around with Javascript or Python, even if I did, it wouldn’t turn out like this.
-
-Another being unable to use Git properly. Every time I was using it, I had to check the documentation or watch some videos. In order to overcome this, I made a [gist file](https://gist.github.com/cjxe/b485f5192f3b938bff7eff12fa09373c)  which is basically a cheat sheet on how to start a repo and sync with your folder.
-
-In the game (or platform), teleportation function was a bit tricky to set it up. Actually you don’t have to press one the door, just go near it any click the left mouse button and the invisible flower will transport you.
-
-Buttons were fun to play with. I managed to disable the buttons if the player is under a certain "y" coordinate, since the rooms are always at the top the buttons will work once you pass through the door. This might not be the best method but it worked for now.
-
-I googled, read the documents, watched a video or asked other people for general problems such as a function not working properly. Adding print statements is another quick fix if the functions have steps.
-
-### Accomplishments that I'm proud of 😁
-1. Made an actual game (with graphics!) in an engine which I have never used before.
-
-2. Completed basic requirements such as UI management, buttons, teleportation (and friendly background)!
-
-### What I learned 📚
-How to use Unity to make 2D games AND OpenShot (since I forgot to copy my main video editing program from my desktop machine...).
-
-### What's next for 2D Virtual Classrooms 🔜
-- [ ] Multiplayer, if this game is singeplayer it wouldn’t work in the first place, so multiplayer is a must.
-
-- [ ] A shop to use the coins. Since the coin system is not working, that needs to get done as well.
-
-(And of course more decorations and fixing bugs!)
-
-### Bloopers 🥔
-[I want my vegas pro back](https://youtu.be/YaPDzb1Pk2Y)
+* Whether you're a student looking for a new way to learn or an educator seeking to enhance your teaching methods, "GameClass Connect" is designed to meet your needs. Join us on this exciting journey to redefine the future of online education, where gaming and learning converge to create a truly immersive and unforgettable experience.
