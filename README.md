@@ -3,7 +3,9 @@
 
 An online gaming platform merging video conferencing with 2D classrooms for immersive learning and collaboration.
 
-[Link](https://youtu.be/RDbNJXo9d3E) for a short YouTube video and to the [devpost](https://devpost.com/software/2d-virtual-classrooms).
+https://github.com/Prasannaverse13/GameClass-Connect/assets/116105281/6c69635d-3a7a-47c2-b3e2-ba018a707d4a
+
+
 
 ![gamess_lectureHall](https://i.ibb.co/Hx7sqNV/lecture-Hall.png)
 
